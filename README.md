@@ -1,11 +1,11 @@
 # LevelUp
 
 
-![Capa do Projeto](https://www.creativefabrica.com/wp-content/uploads/2023/02/24/Game-icon-bonus-level-up-icon-new-leve-Graphics-62316177-1.jpg)
+![Capa do Projeto](https://as1.ftcdn.net/v2/jpg/02/60/32/86/1000_F_260328666_ZvdyDkFCAihdLyly8Xb5KGOY3eWIv61K.jpg)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -15,22 +15,13 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
+
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
-
-# Requisitos Funcionais 
-
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
 
 # Tecnologias Usadas
 
