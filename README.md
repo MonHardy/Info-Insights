@@ -1,6 +1,5 @@
 # LevelUp
 
-
 ![Capa do Projeto](https://as1.ftcdn.net/v2/jpg/02/60/32/86/1000_F_260328666_ZvdyDkFCAihdLyly8Xb5KGOY3eWIv61K.jpg)
 
 # Sobre o Projeto
@@ -22,6 +21,10 @@ A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
+
+
+# Sobre o Projeto
+A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos
 
 # Tecnologias Usadas
 
