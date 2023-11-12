@@ -10,7 +10,7 @@
 # Índice/Sumário
 * [Sumário](#índice/sumário)
 * [Introdução](#Introdução)
-* [Objetivos](#1.1Objetivos)
+* [Objetivos](#Objetivos)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
