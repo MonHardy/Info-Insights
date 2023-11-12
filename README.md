@@ -10,6 +10,7 @@
 # Índice/Sumário
 * [Sumário](#índice/sumário)
 * [Introdução](#Introdução)
+* [Objetivos](#Objetivos).
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -36,12 +37,14 @@ Algumas destas informações são:
 * Avaliações de Jogadores;
 * Avaliações de Crítica;
 
-
+# Objetivos
 
 # Tecnologias Usadas
 
 - [MongoDB](https://www.mongodb.com/pt-br)
 - [Kaggle](https://www.kaggle.com/)
+
+
 
 # Contribuição
 
