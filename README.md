@@ -22,9 +22,10 @@
 * [Análise dos Dados](#Análise-dos-Dados)
 * [Observações](#Observações)
 * [Contribuição](#contribuição)
-* [Autores](#autores)
 * [Licença](#licença)
+* [Referências](#Referências)
 * [Agradecimentos](#agradecimentos)
+* * [Autores](#autores)
 
 
 
