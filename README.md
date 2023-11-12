@@ -10,7 +10,7 @@
 # Índice/Sumário
 * [Sumário](#índice/sumário)
 * [Introdução](#Introdução)
-* [Objetivos](#Objetivos).
+* [Objetivos](#Objetivos)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -38,6 +38,7 @@ Algumas destas informações são:
 * Avaliações de Crítica;
 
 # Objetivos
+a
 
 # Tecnologias Usadas
 
