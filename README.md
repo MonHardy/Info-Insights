@@ -63,27 +63,40 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
 # 2.0 Metodologias
 Nesta seção será apresentado todo o processo de preparação, organização e limpeza de dados feito no dataset que possui os seguintes dados:
 
- Colunas | Descrição
---------- | ------
-ResponseName     | Nome do Jogo
-Titlle          | Nome do Jogo
-ReleaseDate    | Data de Publicação do Jogo
-OrigianlPrice  | Preço Original
-PeakPlayers |  Pico de Jogadores
-AllTimePeakDate | Data do Pico de Jogadores
-Metacritic    | Nota Metacrítica
-Recommendations  | Recomendação
-AllReviewsSummary | Sumário de Todas as Reviews
-PrimaryGenre | Gênero Primário
-StoreGenres  | Gênero da Loja
 
-# 2.1 Observações
+# 2.1 Dicionário de Dados
+
+ Colunas | Descrição  |  Tipo   |  Formato do Campo
+--------- | ------ | ------ | ------
+ResponseName     | Nome do Jogo   |  Texto  |  String
+Titlle          | Nome do Jogo    |  Texto   | String
+ReleaseDate    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
+OrigianlPrice  | Preço Original   |  Número   | Float
+PeakPlayers |  Pico de Jogadores    | Número   | Int
+AllTimePeakDate | Data do Pico de Jogadores | Número   | Int
+Metacritic    | Nota Metacrítica  | Número  | Float
+Recommendations  | Recomendação  | Número  | Int
+AllReviewsSummary | Sumário de Todas as Reviews  | Porcentagem  |  00%
+PrimaryGenre | Gênero Primário  |  Texto  | String
+StoreGenres  | Gênero da Loja   |  Texto  | String
+
+# 2.2 Observações
 * `ResponseName` e `Tittle` se referem ao `Nome do Jogo`;
 * `Recommendations` é levado em consideração a recomendação dos jogadores;
 * Em `PrimaryGenre` é levado em consideração apenas o gênero principal do jogo, não sendo levado em consoderação tags de loja.
 * `StoreGenres` se refere às tags da loja da Steam (Exemplo: Multiplayer, Singleplayer);
 
+# 2.3 Configuração do Ambiente
 
+# 2.4 Leitura de Dados
+
+# 2.5 Organização E Limpeza de Dados
+
+# 2.6 Mapeamento de Dados
+
+# 2.7 Feature Engineering
+
+# 3.0 Análise dos Dados
 
 
 # Contribuição
@@ -95,9 +108,14 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
+
+# Referências
+[Tecnoblog - Steam](https://tecnoblog.net/responde/o-que-e-steam-tudo-sobre-a-loja-valve/)
+
 # Agradecimentos
 
 Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+
 
 # Autores
 
