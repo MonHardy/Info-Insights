@@ -19,15 +19,29 @@
 
 
 # Introdução
-A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos
+A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos para a plataforma Steam e desejamos criar jogos inovadores que despertem o interesse do público. Para isso decidimos realizar uma análise exploratória de dados profunda sobre os dados da Steam relacionados aos jogos disponíveis na mesma, para que assim, possamos descobrir quais os melhores gêneros e tipos para que possamos investir nosso tempo e trabalho. 
+
+A Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Por meio dela é possível que consumidores comprem ou ativem jogos dentro do serviço. Possui um programa cliente, que deve ser instalado no computador, para que os jogos possam ser executados, mantendo tudo atualizado. 
+
+Para tal estudo de dados, iremos utilizar alguns datasets sobre a Steam disponíveis em [Kaggle](https://www.kaggle.com/), sendo estes arquivos CSV, os quais serão:
+ [Steam-Releases](https://www.kaggle.com/datasets/whigmalwhim/steam-releases), [Steam-Games](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and), [Steam-Games-Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset), contendo vasta informação sobre a grande biblioteca de jogos presente na Steam.
+
+Algumas destas informações são:
+* Nome dos Jogos;
+* Gênero;
+* Data de Lançamento;
+* Maior quantidade de Jogadores;
+* Jogos Vendidos;
+* Recomendações;
+* Avaliações de Jogadores;
+* Avaliações de Crítica;
+
+
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [MongoDB](https://www.mongodb.com/pt-br)
+- [Kaggle](https://www.kaggle.com/)
 
 # Contribuição
 
