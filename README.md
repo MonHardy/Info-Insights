@@ -9,9 +9,10 @@
 
 # Índice/Sumário
 * [Sumário](#índice/sumário)
-* [Introdução](#Introdução)
-* [Objetivos](#Objetivos)
+* [Introdução](#introdução)
+* [Objetivos](#objetivos)
 * [Tecnologias Usadas](#tecnologias-usadas)
+* [Metodologias](#metodologias)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
