@@ -25,7 +25,7 @@
 * [Licença](#licença)
 * [Referências](#Referências)
 * [Agradecimentos](#agradecimentos)
-* * [Autores](#autores)
+* [Autores](#autores)
 
 
 
