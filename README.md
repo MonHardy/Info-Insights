@@ -55,22 +55,35 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
     são equivalentes às recomendações dos jogadores?
 
 
-
-
-# Tecnologias Usadas
+# 1.2 Tecnologias Usadas
 
 - [MongoDB](https://www.mongodb.com/pt-br)
 - [Kaggle](https://www.kaggle.com/)
 
+# 2.0 Metodologias
+Nesta seção será apresentado todo o processo de preparação, organização e limpeza de dados feito no dataset que possui os seguintes dados:
+
+ Colunas | Descrição
+--------- | ------
+ResponseName     | Nome do Jogo
+Titlle          | Nome do Jogo
+ReleaseDate    | Data de Publicação do Jogo
+Origianl Price  | Preço Original
+Peak Players |  Pico de Jogadores
+All Time Peak Date | Data do Pico de Jogadores
+Metacritic    | Nota Metacrítica
+Recommendations  | Recomendação
+All Reviews Summary | Sumário de Todas as Reviews
+Primary Genre | Gênero Primário
+Store Genres  | Gênero da Loja
+
+# 2.1 Observações
 
 
 # Contribuição
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
-# Autores
-
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
 # Licença
 
@@ -79,3 +92,20 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 # Agradecimentos
 
 Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+
+# Autores
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/111711621?v=4" width="100px;" alt="Leonardo Nunes"/><br /><sub><b>Leonardo Nunes</b></sub></a><br /><a href="https://github.com/sLeoNunes" title="Readme, Documentation, Ideas, Search">📝📖💻🤔</a>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/85580881?v=4" width="100px;" alt="Carla Coutinho"/><br /><sub><b>Carla Coutinho</b></sub></a><br /><a href="https://github.com/MonHardy" title="Documentation, Ideas, Search">📖💻🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/130943420?v=4" alt="Samuel Maciel"/><br /><sub><b>Samuel Maciel</b></sub></a><br /><a href="https://github.com/Sn0wSA" title="Search, Ideas, Bug Report">💻🤔🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/80545302?v=4" width="100px;" alt="Lucas Alexandre"/><br /><sub><b>Lucas Alexandre</b></sub></a><br /><a href="https://github.com/Lucas-AlexNK" title="Search, Ideas">💻🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/113992861?v=4" width="100px;" alt="Diego Diniz"/><br /><sub><b>Diego Diniz</b></sub></a><br /><a href="https://github.com/DiegoDiniz59" title="Readme, Search, Ideas">📝💻🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/89555246?s=400&u=51041b9b462ada2485b67ba84d947db1239b2835&v=4" width="100px;" alt="Gabriel Gontijo"/><br /><sub><b>Gabriel Gontijo</b></sub></a><br /><a href="https://github.com/Gontijo23" title="Bug Report, Search, Ideas">🐛💻🤔</a>
+    </tr>
+
