@@ -2,19 +2,14 @@
 
 ![Capa do Projeto](https://as1.ftcdn.net/v2/jpg/02/60/32/86/1000_F_260328666_ZvdyDkFCAihdLyly8Xb5KGOY3eWIv61K.jpg)
 
-# Sobre o Projeto
-
-A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
 </h4>
 
 # Índice/Sumário
-
-* [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-
+* [Introdução](#Introdução)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -23,7 +18,7 @@ A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos
 
 
 
-# Sobre o Projeto
+# Introdução
 A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos
 
 # Tecnologias Usadas
