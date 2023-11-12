@@ -68,16 +68,22 @@ Nesta seção será apresentado todo o processo de preparação, organização e
 ResponseName     | Nome do Jogo
 Titlle          | Nome do Jogo
 ReleaseDate    | Data de Publicação do Jogo
-Origianl Price  | Preço Original
-Peak Players |  Pico de Jogadores
-All Time Peak Date | Data do Pico de Jogadores
+OrigianlPrice  | Preço Original
+PeakPlayers |  Pico de Jogadores
+AllTimePeakDate | Data do Pico de Jogadores
 Metacritic    | Nota Metacrítica
 Recommendations  | Recomendação
-All Reviews Summary | Sumário de Todas as Reviews
-Primary Genre | Gênero Primário
-Store Genres  | Gênero da Loja
+AllReviewsSummary | Sumário de Todas as Reviews
+PrimaryGenre | Gênero Primário
+StoreGenres  | Gênero da Loja
 
 # 2.1 Observações
+* `ResponseName` e `Tittle` se referem ao `Nome do Jogo`;
+* `Recommendations` é levado em consideração a recomendação dos jogadores;
+* Em `PrimaryGenre` é levado em consideração apenas o gênero principal do jogo, não sendo levado em consoderação tags de loja.
+* `StoreGenres` se refere às tags da loja da Steam (Exemplo: Multiplayer, Singleplayer);
+
+
 
 
 # Contribuição
