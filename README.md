@@ -29,7 +29,7 @@
 
 
 
-# 1.0 Introdução
+# Introdução
 A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos para a plataforma Steam e desejamos criar jogos inovadores que despertem o interesse do público. Para isso decidimos realizar uma análise exploratória de dados profunda sobre os dados da Steam relacionados aos jogos disponíveis na mesma, para que assim, possamos descobrir quais os melhores gêneros e tipos para que possamos investir nosso tempo e trabalho. 
 
 A Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Por meio dela é possível que consumidores comprem ou ativem jogos dentro do serviço. Possui um programa cliente, que deve ser instalado no computador, para que os jogos possam ser executados, mantendo tudo atualizado. 
@@ -47,7 +47,7 @@ Algumas destas informações são:
 * Avaliações de Jogadores;
 * Avaliações de Crítica;
 
-# 1.1 Objetivos
+# Objetivos
 
 O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados sobre a Steam, adaptada pelos autores e disponível em *****************, a fim de caracterizar os perfis dos jogos disponíveis na plataforma Steam. 
 
@@ -63,7 +63,7 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
     são equivalentes às recomendações dos jogadores?
 
 
-# 1.2 Tecnologias Usadas
+# Tecnologias Usadas
 
 - [MongoDB](https://www.mongodb.com/pt-br)
 - [Kaggle](https://www.kaggle.com/)
@@ -102,9 +102,9 @@ StoreGenres  | Gênero da Loja   |  Texto  | String
 
 # 2.6 Mapeamento de Dados
 
-# 2.7 Feature Engineering
+# Feature Engineering
 
-# 3.0 Análise dos Dados
+# Análise dos Dados
 
 
 # Contribuição
