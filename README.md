@@ -10,7 +10,7 @@
 # Índice/Sumário
 * [Sumário](#índice/sumário)
 * [Introdução](#introdução)
-* [1.1.Objetivos](# 1.1.Objetivos)
+* [Objetivos](#Objetivos)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Metodologias](#metodologias)
 * [Dicionário de Dados](#Dicionário-de-Dados)
@@ -47,7 +47,7 @@ Algumas destas informações são:
 * Avaliações de Jogadores;
 * Avaliações de Crítica;
 
-# 1.1.Objetivos
+#Objetivos
 
 O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados sobre a Steam, adaptada pelos autores e disponível em *****************, a fim de caracterizar os perfis dos jogos disponíveis na plataforma Steam. 
 
