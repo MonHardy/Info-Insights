@@ -72,7 +72,7 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
 Nesta seção será apresentado todo o processo de preparação, organização e limpeza de dados feito no dataset que possui os seguintes dados:
 
 
-# 2.1 Dicionário de Dados
+# Dicionário de Dados
 
  Colunas | Descrição  |  Tipo   |  Formato do Campo
 --------- | ------ | ------ | ------
@@ -88,19 +88,19 @@ AllReviewsSummary | Sumário de Todas as Reviews  | Porcentagem  |  00%
 PrimaryGenre | Gênero Primário  |  Texto  | String
 StoreGenres  | Gênero da Loja   |  Texto  | String
 
-# 2.2 Observações
+# Observações
 * `ResponseName` e `Tittle` se referem ao `Nome do Jogo`;
 * `Recommendations` é levado em consideração a recomendação dos jogadores;
 * Em `PrimaryGenre` é levado em consideração apenas o gênero principal do jogo, não sendo levado em consoderação tags de loja.
 * `StoreGenres` se refere às tags da loja da Steam (Exemplo: Multiplayer, Singleplayer);
 
-# 2.3 Configuração do Ambiente
+# Configuração do Ambiente
 
-# 2.4 Leitura de Dados
+# Leitura de Dados
 
-# 2.5 Organização E Limpeza de Dados
+# Organização E Limpeza de Dados
 
-# 2.6 Mapeamento de Dados
+# Mapeamento de Dados
 
 # Feature Engineering
 
