@@ -10,7 +10,7 @@
 # Índice/Sumário
 * [Sumário](#índice/sumário)
 * [Introdução](#introdução)
-* [Objetivos](#objetivos)
+* [Objetivos](#1.1-objetivos)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Metodologias](#metodologias)
 * [Dicionário de Dados](#Dicionário-de-Dados)
@@ -53,13 +53,11 @@ O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Explor
 
 Especificamente serão respondidas as seguintes questões de pesquisa:
 
-    1- Tendo em vista os Bancos de Dados escolhidos, o gênero do jogo tem
-    impacto direto no sucesso do jogo, na questão relacionado a jogadores que jogam?
+    1- O gênero do jogo tem impacto direto no sucesso do jogo?
 
-    2- Tendo em vista os Bancos de Dados escolhidos, a época do ano de lançamento do jogo têm impacto direto em seu sucesso?
+    2- A época do ano de lançamento do jogo têm impacto direto em seu sucesso?
 
-    3- Tendo em vista os Bancos de Dados escolhidos, qual a porcentagem das avaliações sejam elas positivas
-    ou negativas para a quantidade de jogadores que compraram os jogos? É um número aceitável? 
+    3- Qual a porcentagem das avaliações, sejam elas positivas ou negativas, para a quantidade de jogadores que compraram os jogos?
 
     4- Tendo em vista os Bancos de Dados escolhidos, as notas de sites especializados em análise de jogos
     são equivalentes às recomendações dos jogadores?
