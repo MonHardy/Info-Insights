@@ -11,7 +11,7 @@
 * [Sumário](#índice/sumário)
 * [Introdução](#introdução)
 * [Objetivos](#objetivos)
-* [Tecnologias Usadas](#tecnologias-usadas)
+* [Tecnologias Usadas](#tecnologias-usadas-e-ferramentas)
 * [Metodologias](#metodologias)
 * [Dicionário de Dados](#Dicionário-de-Dados)
 * [Configuração do Ambiente](#Configuração-do-Ambiente)
@@ -20,6 +20,7 @@
 * [Mapeamento de Dados](#Mapeamento-de-Dados)
 * [Feature Engineering](#Feature-Engineering)
 * [Análise dos Dados](#Análise-dos-Dados)
+* [Conclusão](#conclusão)
 * [Observações](#Observações)
 * [Contribuição](#contribuição)
 * [Licença](#licença)
@@ -62,10 +63,11 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
     4- As notas de sites especializados em análise de jogos são equivalentes às recomendações dos jogadores?
 
 
-# Tecnologias Usadas
+# Tecnologias Usadas e Ferramentas
 
 - [Google Colab](https://colab.research.google.com/)
 - [Kaggle](https://www.kaggle.com/)
+- [Linguagem de Programação Python](https://www.python.org/)
 
 # Metodologias
 Nesta seção será apresentado todo o processo de preparação, organização e limpeza de dados feito no dataset que possui os seguintes dados:
@@ -105,6 +107,7 @@ StoreGenres  | Gênero da Loja   |  Texto  | [A-z]
 
 # Análise dos Dados
 
+# Conclusão
 
 # Contribuição
 
@@ -121,7 +124,7 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Agradecemos ao professor Diego por nos ter dado a oportunidade de desenvolver este projeto
 
 
 # Autores
