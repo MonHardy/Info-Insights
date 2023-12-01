@@ -121,6 +121,9 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Referências
 [Tecnoblog - Steam](https://tecnoblog.net/responde/o-que-e-steam-tudo-sobre-a-loja-valve/)
+[Steam-Releases](https://www.kaggle.com/datasets/whigmalwhim/steam-releases)
+[Steam-Games](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and) 
+[Steam-Games-Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset)
 
 # Agradecimentos
 
