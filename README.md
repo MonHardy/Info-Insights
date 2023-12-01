@@ -59,13 +59,12 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
 
     3- Qual a porcentagem das avaliações, sejam elas positivas ou negativas, para a quantidade de jogadores que compraram os jogos?
 
-    4- Tendo em vista os Bancos de Dados escolhidos, as notas de sites especializados em análise de jogos
-    são equivalentes às recomendações dos jogadores?
+    4- As notas de sites especializados em análise de jogos são equivalentes às recomendações dos jogadores?
 
 
 # Tecnologias Usadas
 
-- [MongoDB](https://www.mongodb.com/pt-br)
+- [Google Colab](https://colab.research.google.com/)
 - [Kaggle](https://www.kaggle.com/)
 
 # Metodologias
