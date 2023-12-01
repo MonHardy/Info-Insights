@@ -69,7 +69,7 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
 - [Kaggle](https://www.kaggle.com/)
 - [Linguagem de Programação Python](https://www.python.org/)
 
-# Metodologias
+# *Metodologias*
 Nesta seção será apresentado todo o processo de preparação, organização e limpeza de dados feito no dataset que possui os seguintes dados:
 
 
@@ -96,6 +96,8 @@ StoreGenres  | Gênero da Loja   |  Texto  | [A-z]
 * `StoreGenres` se refere às tags da loja da Steam (Exemplo: Multiplayer, Singleplayer);
 
 # Configuração do Ambiente
+Para darmos início à Análise de Dados, escolhemos o Google Colab como nossa ferramenta de trabalho e para isto, realizamos imports, tais como NumPy e Pandas.
+
 
 # Leitura de Dados
 
