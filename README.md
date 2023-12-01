@@ -98,6 +98,7 @@ StoreGenres  | Gênero da Loja   |  Texto  | [A-z]
 # Configuração do Ambiente
 Para darmos início à Análise de Dados, escolhemos o Google Colab como nossa ferramenta de trabalho e para isto, realizamos imports, tais como NumPy e Pandas.
 
+<img src="https://github.com/MonHardy/level-up/blob/main/Capturar.PNG?raw=true"/>
 
 # Leitura de Dados
 
