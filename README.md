@@ -75,17 +75,17 @@ Nesta seção será apresentado todo o processo de preparação, organização e
 
  Colunas | Descrição  |  Tipo   |  Formato do Campo
 --------- | ------ | ------ | ------
-ResponseName     | Nome do Jogo   |  Texto  |  String
-Titlle          | Nome do Jogo    |  Texto   | String
+ResponseName     | Nome do Jogo   |  Texto  |  [A-z]
+Titlle          | Nome do Jogo    |  Texto   | [A-z]
 ReleaseDate    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
-OrigianlPrice  | Preço Original   |  Número   | Float
-PeakPlayers |  Pico de Jogadores    | Número   | Int
-AllTimePeakDate | Data do Pico de Jogadores | Número   | Int
-Metacritic    | Nota Metacrítica  | Número  | Float
-Recommendations  | Recomendação  | Número  | Int
-AllReviewsSummary | Sumário de Todas as Reviews  | Porcentagem  |  00%
-PrimaryGenre | Gênero Primário  |  Texto  | String
-StoreGenres  | Gênero da Loja   |  Texto  | String
+OrigianlPrice  | Preço Original   |  Número   | [0.0]
+PeakPlayers |  Pico de Jogadores    | Número   | [0-9]
+AllTimePeakDate | Data do Pico de Jogadores | Número   | [0-9]
+Metacritic    | Nota Metacrítica  | Número  | [0.0]
+Recommendations  | Recomendação  | Número  | [0-9]
+AllReviewsSummary | Sumário de Todas as Reviews  | Porcentagem  |  0.0%
+PrimaryGenre | Gênero Primário  |  Texto  | [A-z]
+StoreGenres  | Gênero da Loja   |  Texto  | [A-z]
 
 # Observações
 * `ResponseName` e `Tittle` se referem ao `Nome do Jogo`;
