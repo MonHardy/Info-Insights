@@ -68,7 +68,7 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
 - [MongoDB](https://www.mongodb.com/pt-br)
 - [Kaggle](https://www.kaggle.com/)
 
-# 2.0 Metodologias
+# Metodologias
 Nesta seção será apresentado todo o processo de preparação, organização e limpeza de dados feito no dataset que possui os seguintes dados:
 
 
