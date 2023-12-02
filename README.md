@@ -135,7 +135,7 @@ Após escolhermos os datasets a serem utilizados, percebemos que haviam certas c
 
 # Agradecimentos
 
-Agradecemos ao professor Diego por nos ter dado a oportunidade de desenvolver este projeto
+Agradecemos ao professor Diego por nos ter dado a oportunidade de desenvolver este projeto, possibilitando que colocassemos nosso aprendizado adquirido em sala de aula, através de suas aulas, em prática.
 
 
 # Autores
