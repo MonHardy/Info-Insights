@@ -95,7 +95,7 @@ StoreGenres  | Gênero da Loja   |  Texto  | [A-z]
 * `StoreGenres` se refere às tags da loja da Steam (Exemplo: Multiplayer, Singleplayer);
 
 # Configuração do Ambiente
-Para darmos início à Análise de Dados, escolhemos o Google Colab como nossa ferramenta de trabalho e para isto, realizamos imports, tais como NumPy e Pandas.
+Para darmos início a Análise de Dados, escolhemos o Google Colab como nossa ferramenta de trabalho e para isto, realizamos imports, tais como NumPy e Pandas.
 
 <img src="https://github.com/MonHardy/level-up/blob/main/Capturar.PNG?raw=true"/>
 
