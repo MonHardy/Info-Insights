@@ -4,7 +4,7 @@
 
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	✅  Trabalho Finalizado!
 </h4>
 
 # Índice/Sumário
