@@ -100,7 +100,7 @@ Para darmos início à Análise de Dados, escolhemos o Google Colab como nossa f
 <img src="https://github.com/MonHardy/level-up/blob/main/Capturar.PNG?raw=true"/>
 
 # Leitura de Dados
-Após escolhermos os datasets a serem utilizados, percebemos que haviam certas colunas de dados que não iriamos utilizar, então decidimos por retirá-las, a fim de diminuir o tamamho dos datasets.
+Após escolhermos os datasets a serem utilizados, percebemos que haviam certas colunas de dados que não iriamos utilizar, então decidimos por retirá-las, a fim de diminuir o tamanho dos datasets.
 
 # Organização E Limpeza de Dados
 
