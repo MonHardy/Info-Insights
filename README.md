@@ -116,22 +116,22 @@ Após escolhermos os datasets a serem utilizados, percebemos que haviam certas c
 
 *Participação e contribuição dos Alunos:*
 
-    Carla Monique
-    Diego Diniz
-    Gabriel Gontijo
-    Leonardo Nunes	
-    Lucas Alexandre
-    Samuel Maciel
+- Carla Monique
+- Diego Diniz
+- Gabriel Gontijo
+- Leonardo Nunes
+- Lucas Alexandre
+- Samuel Maciel
 
 *E auxílio do Professor Diego Augusto Barros*
 
 
 
 # Referências
-[Tecnoblog - Steam](https://tecnoblog.net/responde/o-que-e-steam-tudo-sobre-a-loja-valve/)
-[Steam-Releases](https://www.kaggle.com/datasets/whigmalwhim/steam-releases)
-[Steam-Games](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and) 
-[Steam-Games-Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset)
+- [Tecnoblog - Steam](https://tecnoblog.net/responde/o-que-e-steam-tudo-sobre-a-loja-valve/)
+- [Steam-Releases](https://www.kaggle.com/datasets/whigmalwhim/steam-releases)
+- [Steam-Games](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and) 
+- [Steam-Games-Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset)
 
 # Agradecimentos
 
