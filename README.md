@@ -23,7 +23,6 @@
 * [Conclusão](#conclusão)
 * [Observações](#Observações)
 * [Contribuição](#contribuição)
-* [Licença](#licença)
 * [Referências](#Referências)
 * [Agradecimentos](#agradecimentos)
 * [Autores](#autores)
@@ -115,12 +114,17 @@ Após escolhermos os datasets a serem utilizados, percebemos que haviam certas c
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+*Participação e contribuição dos Alunos:*
 
+Carla Monique
+Diego Diniz
+Gabriel Gontijo
+Leonardo Nunes	
+Lucas Alexandre
+Samuel Maciel
 
-# Licença
+*E auxílio do Professor Diego Augusto Barros*
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 
 # Referências
