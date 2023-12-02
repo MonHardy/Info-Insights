@@ -116,12 +116,12 @@ Após escolhermos os datasets a serem utilizados, percebemos que haviam certas c
 
 *Participação e contribuição dos Alunos:*
 
-Carla Monique
-Diego Diniz
-Gabriel Gontijo
-Leonardo Nunes	
-Lucas Alexandre
-Samuel Maciel
+    Carla Monique
+    Diego Diniz
+    Gabriel Gontijo
+    Leonardo Nunes	
+    Lucas Alexandre
+    Samuel Maciel
 
 *E auxílio do Professor Diego Augusto Barros*
 
