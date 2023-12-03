@@ -143,7 +143,7 @@ Metacritic    | 0  |  50
 
 Decidimos por alterar os valores '0' em Metacritic por '50', pois 50 é considerado uma nota neutra, nem positiva e nem negativa, o que nos possibilita trabalhar com algum valor neste parâmetro.
 
-[merged_data.csv](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset)
+[merged_data.csv](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset):
 
 Colunas | Original  |  Modificado  
 --------- | ------ | -------
