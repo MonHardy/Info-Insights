@@ -86,7 +86,7 @@ price_initial  | Preço Original   |  Número   | [0.0]
 peak_players |  Pico de Jogadores    | Número   | [0-9]
 metacritic    | Nota Metacrítica  | Número  | [0.0]
 recommendations  | Recomendação  | Número  | [0-9]
-Recommendation_count  | Recomendação  | Número  | [0-9]
+recommendation_count  | Total de Recomendação  | Número  | [0-9]
 all_reviews_summary | Sumário de Todas as Reviews  | Porcentagem  |  0.0%
 total_reviews |  Todas as Reviews  | Número  |  [0-9]
 rating | Notas/Avaliação  | Número  |  [0.0]
