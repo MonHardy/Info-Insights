@@ -105,11 +105,18 @@ Para darmos início a Análise de Dados, escolhemos o Google Colab como nossa fe
 <img src="https://github.com/MonHardy/level-up/blob/main/Capturar.PNG?raw=true"/>
 
 # Leitura de Dados
-Após escolhermos os datasets a serem utilizados, percebemos que haviam certas colunas de dados que não iriamos utilizar, então decidimos por retirá-las, a fim de diminuir o tamanho dos datasets.
+
+Com o intuito de facilitar a leitura e análise dos dados, escolhemos o Google Colab como ferramenta. 
+
+Para darmos início ao projeto, realizamos o upload dos bancos de dados no Colab.
+
+[Trabalho Análise de Dados](https://colab.research.google.com/drive/1fBp_at-FOFNTRc25hlo6kwKGCBPUPjPG#scrollTo=dITIWsW2WaQU)
 
 # Organização E Limpeza de Dados
 
-Para facilitar a análise de dados, optamos por retirar as seguintes colunas do Dataset "Steam Releases":
+Após escolhermos os datasets a serem utilizados, percebemos que haviam certas colunas de dados que não iriamos utilizar, então decidimos por retirá-las, a fim de diminuir o tamanho dos datasets.
+
+Diante disso, optamos por retirar as seguintes colunas do Dataset "Steam Releases":
 
 ![image](https://github.com/MonHardy/level-up/assets/111711621/1de038c1-4b31-4961-9cde-83ae4a267253)
 
