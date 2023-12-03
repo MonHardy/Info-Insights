@@ -137,10 +137,14 @@ Para melhorar a análise e interpretação dos dados os seguintes atributos ser�
  Colunas | Original  |  Modificado 
 --------- | ------ | ------ 
 primary_genre    | Unknown Genre  |  -
+primary_genre    | Free To Play  |  -
+primary_genre    | Early Acess  |  -
+primary_genre    | Nudity  |  -
+primary_genre    | Sexual Content |  -
 
-Decidimos por retitar os jogos que não possuem gênero identificado.
+![image](https://github.com/MonHardy/level-up/assets/111711621/f6cc604f-bdb4-4228-869d-5561704443cb)
 
-![image](https://github.com/MonHardy/level-up/assets/111711621/2e18732e-f440-4545-b935-039b82ed0dd2)
+Decidimos por retitar os gênero que não serão utilizados em nossa análise.
 
 
 [games-features-edit.csv](https://github.com/MonHardy/level-up/blob/main/games-features-edit.csv):
