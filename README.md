@@ -124,10 +124,9 @@ Já no Dataset "Steam Games" decidimos por retirar algumas colunas:
 ![image](https://github.com/MonHardy/level-up/assets/111711621/6ed7bf95-14ec-4c37-b121-8262ed773d6f)
 
 
-E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset": ******************************************
+E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset": 
 
-
-
+![image](https://github.com/MonHardy/level-up/assets/111711621/4d15a27d-8a64-44b9-9cb1-d434ac5ac476)
 
 
 # Mapeamento de Dados
