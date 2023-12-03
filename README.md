@@ -94,7 +94,7 @@ primary_genre | Gênero Primário  |  Texto  | [A-z]
 store_genres  | Gênero da Loja   |  Texto  | [A-z]
 
 # Observações
-* `ResponseName` e `Tittle` se referem ao `Nome do Jogo`;
+* `ResponseName`, `Tittle`, `game` se referem ao `Nome do Jogo`;
 * `Recommendations` é levado em consideração a recomendação dos jogadores;
 * Em `PrimaryGenre` é levado em consideração apenas o gênero principal do jogo, não sendo levado em consoderação tags de loja.
 * `StoreGenres` se refere às tags da loja da Steam (Exemplo: Multiplayer, Singleplayer);
