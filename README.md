@@ -172,6 +172,11 @@ Estas mudanças se tornaram necessárias pois nesta análise iremos tratar apena
 
 # Análise dos Dados
 
+
+    1- O gênero do jogo tem impacto direto no sucesso do jogo?
+
+
+
 # Conclusão
 
 # Contribuição
