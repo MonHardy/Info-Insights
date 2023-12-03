@@ -76,17 +76,16 @@ Nesta seção será apresentado todo o processo de preparação, organização e
 
  Colunas | Descrição  |  Tipo   |  Formato do Campo
 --------- | ------ | ------ | ------
-ResponseName     | Nome do Jogo   |  Texto  |  [A-z]
-Titlle          | Nome do Jogo    |  Texto   | [A-z]
-ReleaseDate    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
-OrigianlPrice  | Preço Original   |  Número   | [0.0]
-PeakPlayers |  Pico de Jogadores    | Número   | [0-9]
-AllTimePeakDate | Data do Pico de Jogadores | Número   | [0-9]
-Metacritic    | Nota Metacrítica  | Número  | [0.0]
-Recommendations  | Recomendação  | Número  | [0-9]
-AllReviewsSummary | Sumário de Todas as Reviews  | Porcentagem  |  0.0%
-PrimaryGenre | Gênero Primário  |  Texto  | [A-z]
-StoreGenres  | Gênero da Loja   |  Texto  | [A-z]
+response_name     | Nome do Jogo   |  Texto  |  [A-z]
+titlle          | Nome do Jogo    |  Texto   | [A-z]
+release_date    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
+original_price  | Preço Original   |  Número   | [0.0]
+peak_players |  Pico de Jogadores    | Número   | [0-9]
+metacritic    | Nota Metacrítica  | Número  | [0.0]
+recommendations  | Recomendação  | Número  | [0-9]
+all_reviews_summary | Sumário de Todas as Reviews  | Porcentagem  |  0.0%
+primary_genre | Gênero Primário  |  Texto  | [A-z]
+store_genres  | Gênero da Loja   |  Texto  | [A-z]
 
 # Observações
 * `ResponseName` e `Tittle` se referem ao `Nome do Jogo`;
@@ -104,9 +103,10 @@ Após escolhermos os datasets a serem utilizados, percebemos que haviam certas c
 
 # Organização E Limpeza de Dados
 
-Para facilitar a análise de dados, optamos por retirar as seguintes colunas do Dataset "Steam Games":
+Para facilitar a análise de dados, optamos por retirar as seguintes colunas do Dataset "Steam Releases":
 ![image](https://github.com/MonHardy/level-up/assets/111711621/3f2355d4-08e3-465a-a3e9-1d2fcada58b0)
 
+E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset"
 
 
 
