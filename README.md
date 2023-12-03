@@ -82,9 +82,11 @@ titlle          | Nome do Jogo    |  Texto   | [A-z]
 release_date    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
 release    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
 original_price  | Preço Original   |  Número   | [0.0]
+
 peak_players |  Pico de Jogadores    | Número   | [0-9]
 metacritic    | Nota Metacrítica  | Número  | [0.0]
 recommendations  | Recomendação  | Número  | [0-9]
+Recommendation_count  | Recomendação  | Número  | [0-9]
 all_reviews_summary | Sumário de Todas as Reviews  | Porcentagem  |  0.0%
 total_reviews |  Todas as Reviews  | Número  |  [0-9]
 rating | Notas/Avaliação  | Número  |  [0.0]
@@ -112,7 +114,7 @@ Para facilitar a análise de dados, optamos por retirar as seguintes colunas do 
 
 Já no Dataset "Steam Games" decidimos por retirar algumas colunas:
 
-![image](https://github.com/MonHardy/level-up/assets/111711621/cb87f5eb-232b-470f-b9bd-1651eb4f5e59)
+![image](https://github.com/MonHardy/level-up/assets/111711621/6ed7bf95-14ec-4c37-b121-8262ed773d6f)
 
 
 E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset":
