@@ -110,6 +110,7 @@ Após escolhermos os datasets a serem utilizados, percebemos que haviam certas c
 # Organização E Limpeza de Dados
 
 Para facilitar a análise de dados, optamos por retirar as seguintes colunas do Dataset "Steam Releases":
+
 ![image](https://github.com/MonHardy/level-up/assets/111711621/1de038c1-4b31-4961-9cde-83ae4a267253)
 
 Já no Dataset "Steam Games" decidimos por retirar algumas colunas:
