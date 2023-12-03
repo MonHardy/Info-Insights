@@ -82,7 +82,7 @@ titlle          | Nome do Jogo    |  Texto   | [A-z]
 release_date    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
 release    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
 original_price  | Preço Original   |  Número   | [0.0]
-
+price_initial  | Preço Original   |  Número   | [0.0]
 peak_players |  Pico de Jogadores    | Número   | [0-9]
 metacritic    | Nota Metacrítica  | Número  | [0.0]
 recommendations  | Recomendação  | Número  | [0-9]
@@ -118,7 +118,7 @@ Já no Dataset "Steam Games" decidimos por retirar algumas colunas:
 ![image](https://github.com/MonHardy/level-up/assets/111711621/6ed7bf95-14ec-4c37-b121-8262ed773d6f)
 
 
-E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset":
+E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset": ******************************************
 
 ![image](https://github.com/MonHardy/level-up/assets/111711621/268d05ba-08d0-428a-9930-4900b678000a)
 
