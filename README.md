@@ -104,6 +104,9 @@ Após escolhermos os datasets a serem utilizados, percebemos que haviam certas c
 
 # Organização E Limpeza de Dados
 
+Para facilitar a análise de dados, optamos por retirar as seguintes colunas:
+
+
 # Mapeamento de Dados
 
 # Feature Engineering
