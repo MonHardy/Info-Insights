@@ -49,7 +49,7 @@ Algumas destas informações são:
 
 # Objetivos
 
-O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados sobre a Steam, adaptada pelos autores e disponível em [game_data_all.csv](), a fim de caracterizar os perfis dos jogos disponíveis na plataforma Steam. 
+O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados sobre a Steam, adaptada pelos autores e disponível em [game_data_all.csv](https://github.com/MonHardy/level-up/blob/main/game_data_all.csv), a fim de caracterizar os perfis dos jogos disponíveis na plataforma Steam. 
 
 Especificamente serão respondidas as seguintes questões de pesquisa:
 
