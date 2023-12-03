@@ -132,6 +132,17 @@ E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset":
 
 Para melhorar a análise e interpretação dos dados os seguintes atributos serão modificados:
 
+[game_data_all.csv](https://github.com/MonHardy/level-up/blob/main/game_data_all.csv)
+
+ Colunas | Original  |  Modificado 
+--------- | ------ | ------ 
+primary_genre    | Unknown Genre  |  -
+
+Decidimos por retitar os jogos que não possuem gênero identificado.
+
+![image](https://github.com/MonHardy/level-up/assets/111711621/2e18732e-f440-4545-b935-039b82ed0dd2)
+
+
 [games-features-edit.csv](https://github.com/MonHardy/level-up/blob/main/games-features-edit.csv):
 
  Colunas | Original  |  Modificado 
