@@ -131,9 +131,30 @@ E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset":
 
 # Mapeamento de Dados
 
-Tiramos 0 pta 50 tabela 2
+Para melhorar a análise e interpretação dos dados os seguintes atributos serão modificados:
 
-Tiramos jogos que não foram lançados e mudamos NaN e mixed pra neutral em reviews tabela 3, original price free pra 0.00 no preço
+[games-features-edit.csv](https://github.com/MonHardy/level-up/blob/main/games-features-edit.csv):
+
+ Colunas | Original  |  Modificado 
+--------- | ------ | ------ 
+Metacritic    | 0  |  50
+
+![image](https://github.com/MonHardy/level-up/assets/111711621/cb086e94-20b8-4062-bf1c-48186ef87f93)
+
+Decidimos por alterar os valores '0' em Metacritic por '50', pois 50 é considerado uma nota neutra, nem positiva e nem negativa, o que nos possibilita trabalhar com algum valor neste parâmetro.
+
+[merged_data.csv](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset)
+
+Colunas | Original  |  Modificado  
+--------- | ------ | -------
+release_date   | Coming Soon, To be Announced |  -
+all_reviews_summary | Mixed, NaN | Neutral
+original_price | Free | $0.00
+
+![image](https://github.com/MonHardy/level-up/assets/111711621/5b4e5fd9-56ee-4c2c-954c-66446fdd1dd3)
+
+Estas mudanças se tornaram necessárias pois nesta análise iremos tratar apenas de jogos já lançados no mercado, não sendo necessário linhas que possuem jogos ainda não lançados. Além disso, optamos por mudar alguns parâmetros para facilitar o entendimento de nossa análise. 
+
 
 # Feature Engineering
 
