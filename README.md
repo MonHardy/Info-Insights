@@ -120,7 +120,7 @@ Já no Dataset "Steam Games" decidimos por retirar algumas colunas:
 
 E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset": ******************************************
 
-![image](https://github.com/MonHardy/level-up/assets/111711621/268d05ba-08d0-428a-9930-4900b678000a)
+
 
 
 
