@@ -100,15 +100,14 @@ store_genres  | Gênero da Loja   |  Texto  | [A-z]
 * `StoreGenres` se refere às tags da loja da Steam (Exemplo: Multiplayer, Singleplayer);
 
 # Configuração do Ambiente
+
 Para darmos início a Análise de Dados, escolhemos o Google Colab como nossa ferramenta de trabalho e para isto, realizamos imports, tais como NumPy e Pandas.
 
 <img src="https://github.com/MonHardy/level-up/blob/main/Capturar.PNG?raw=true"/>
 
 # Leitura de Dados
 
-Com o intuito de facilitar a leitura e análise dos dados, escolhemos o Google Colab como ferramenta. 
-
-Para darmos início ao projeto, realizamos o upload dos bancos de dados no Colab.
+No Google Colab, realizamos o upload dos bancos de dados no Colab.
 
 [Trabalho Análise de Dados](https://colab.research.google.com/drive/1fBp_at-FOFNTRc25hlo6kwKGCBPUPjPG#scrollTo=dITIWsW2WaQU)
 
@@ -126,7 +125,6 @@ Já no Dataset "Steam Games" decidimos por retirar algumas colunas:
 
 
 E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset": ******************************************
-
 
 
 
