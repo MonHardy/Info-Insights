@@ -19,7 +19,6 @@
 * [Leitura de Dados](#Leitura-de-Dados)
 * [Organização E Limpeza de Dados](#Organização-E-Limpeza-de-Dados)
 * [Mapeamento de Dados](#Mapeamento-de-Dados)
-* [Feature Engineering](#Feature-Engineering)
 * [Análise dos Dados](#Análise-dos-Dados)
 * [Conclusão](#conclusão)
 * [Contribuição](#contribuição)
@@ -155,8 +154,6 @@ original_price | Free | $0.00
 
 Estas mudanças se tornaram necessárias pois nesta análise iremos tratar apenas de jogos já lançados no mercado, não sendo necessário linhas que possuem jogos ainda não lançados. Além disso, optamos por mudar alguns parâmetros para facilitar o entendimento de nossa análise. 
 
-
-# Feature Engineering
 
 # Análise dos Dados
 
