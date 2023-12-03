@@ -104,7 +104,10 @@ Após escolhermos os datasets a serem utilizados, percebemos que haviam certas c
 
 # Organização E Limpeza de Dados
 
-Para facilitar a análise de dados, optamos por retirar as seguintes colunas:
+Para facilitar a análise de dados, optamos por retirar as seguintes colunas do Dataset "Steam Games":
+![image](https://github.com/MonHardy/level-up/assets/111711621/a1bef4ee-6513-46b7-9049-5aa1ffda91d8)
+
+
 
 
 # Mapeamento de Dados
