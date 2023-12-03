@@ -131,6 +131,10 @@ E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset":
 
 # Mapeamento de Dados
 
+Tiramos 0 pta 50 tabela 2
+
+Tiramos jogos que não foram lançados e mudamos NaN e mixed pra neutral em reviews tabela 3, original price free pra 0.00 no preço
+
 # Feature Engineering
 
 # Análise dos Dados
