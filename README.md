@@ -77,13 +77,17 @@ Nesta seção será apresentado todo o processo de preparação, organização e
  Colunas | Descrição  |  Tipo   |  Formato do Campo
 --------- | ------ | ------ | ------
 response_name     | Nome do Jogo   |  Texto  |  [A-z]
+game     | Nome do Jogo   |  Texto  |  [A-z]
 titlle          | Nome do Jogo    |  Texto   | [A-z]
 release_date    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
+release    | Data de Publicação do Jogo    | Data   |  yyyy-mm-dd
 original_price  | Preço Original   |  Número   | [0.0]
 peak_players |  Pico de Jogadores    | Número   | [0-9]
 metacritic    | Nota Metacrítica  | Número  | [0.0]
 recommendations  | Recomendação  | Número  | [0-9]
 all_reviews_summary | Sumário de Todas as Reviews  | Porcentagem  |  0.0%
+total_reviews |  Todas as Reviews  | Número  |  [0-9]
+rating | Notas/Avaliação  | Número  |  [0.0]
 primary_genre | Gênero Primário  |  Texto  | [A-z]
 store_genres  | Gênero da Loja   |  Texto  | [A-z]
 
@@ -104,7 +108,7 @@ Após escolhermos os datasets a serem utilizados, percebemos que haviam certas c
 # Organização E Limpeza de Dados
 
 Para facilitar a análise de dados, optamos por retirar as seguintes colunas do Dataset "Steam Releases":
-![image](https://github.com/MonHardy/level-up/assets/111711621/3f2355d4-08e3-465a-a3e9-1d2fcada58b0)
+![image](https://github.com/MonHardy/level-up/assets/111711621/1de038c1-4b31-4961-9cde-83ae4a267253)
 
 E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset":
 
