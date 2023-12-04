@@ -27,7 +27,6 @@
 * [Autores](#autores)
 
 
-
 # Introdução
 A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos para a plataforma Steam e desejamos criar jogos inovadores que despertem o interesse do público. Para isso decidimos realizar uma análise exploratória de dados profunda sobre os dados da Steam relacionados aos jogos disponíveis na mesma, para que assim, possamos descobrir quais os melhores gêneros e tipos para que possamos investir nosso tempo e trabalho. 
 
@@ -119,11 +118,6 @@ Já no Dataset "Steam Games" decidimos por retirar algumas colunas:
 ![image](https://github.com/MonHardy/level-up/assets/111711621/6ed7bf95-14ec-4c37-b121-8262ed773d6f)
 
 
-E decidimos retirar as seguintes colunas do Dataset "Steam Games Dataset": 
-
-![image](https://github.com/MonHardy/level-up/assets/111711621/4d15a27d-8a64-44b9-9cb1-d434ac5ac476)
-
-
 # Mapeamento de Dados
 
 Para melhorar a análise e interpretação dos dados os seguintes atributos serão modificados:
@@ -153,17 +147,6 @@ Metacritic    | 0  |  50
 
 Decidimos por alterar os valores '0' em Metacritic por '50', pois 50 é considerado uma nota neutra, nem positiva e nem negativa, o que nos possibilita trabalhar com algum valor neste parâmetro.
 
-[merged_data.csv](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset):
-
-Colunas | Original  |  Modificado  
---------- | ------ | -------
-release_date   | Coming Soon, To be Announced |  -
-all_reviews_summary | Mixed, NaN | Neutral
-original_price | Free | $0.00
-
-![image](https://github.com/MonHardy/level-up/assets/111711621/5b4e5fd9-56ee-4c2c-954c-66446fdd1dd3)
-
-Estas mudanças se tornaram necessárias pois nesta análise iremos tratar apenas de jogos já lançados no mercado, não sendo necessário linhas que possuem jogos ainda não lançados. Além disso, optamos por mudar alguns parâmetros para facilitar o entendimento de nossa análise. 
 
 
 # Análise dos Dados
