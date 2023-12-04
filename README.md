@@ -56,7 +56,7 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
 
     2- A época do ano de lançamento do jogo têm impacto direto em seu sucesso?
 
-    3- Qual a porcentagem das avaliações, sejam elas positivas ou negativas, para a quantidade de jogadores que compraram os jogos?
+    3- Há alguma relação entre o número das avaliações, sejam elas positivas ou negativas, para a quantidade de jogadores que compraram os jogos?
 
     4- As notas de sites especializados em análise de jogos são equivalentes às recomendações dos jogadores?
 
@@ -174,7 +174,29 @@ Estas mudanças se tornaram necessárias pois nesta análise iremos tratar apena
 
 
     1- O gênero do jogo tem impacto direto no sucesso do jogo?
+    
+![image](https://github.com/MonHardy/level-up/assets/111711621/05cd8874-fb21-4c16-bceb-689f11cf004b)
 
+Sim. De acordo com os dados avaliados, os jogos do gênero Action são comumente mais jogados do que os outros gêneros. 
+
+
+    2- A época do ano de lançamento do jogo têm impacto direto em seu sucesso?
+
+![image](https://github.com/MonHardy/level-up/assets/111711621/363a3ab0-b7b8-4b1c-8671-224cb72dbae0)
+
+Sim. A época de férias tem resultado em vendas maiores do que as outras épocas. Fevereiro, por exemplo, quando ocorrem as férias na Ásia, costumam ter lançamentos de maiores sucessos.
+
+    3- Há alguma relação entre o número das avaliações, sejam elas positivas ou negativas, para a quantidade de jogadores que compraram os jogos?
+    
+![image](https://github.com/MonHardy/level-up/assets/111711621/a9466fba-56aa-456c-85f9-932a001f0e1f)
+
+Não necessariamente, há casos em que jogos com muitos jogadores possuem a mesma média de avaliação de que jogos com poucos jogadores.
+
+    4- As notas de sites especializados em análise de jogos são equivalentes às recomendações dos jogadores?
+    
+![image](https://github.com/MonHardy/level-up/assets/111711621/a3ac0bf1-240a-49b0-a3be-8e624cb45145)
+
+Não necessariamente, há casos em que as notas da crítica especializada diverge das recomendações dos jogadores que jogaram o jogo.
 
 
 # Conclusão
