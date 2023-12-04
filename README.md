@@ -206,7 +206,6 @@ Ademais, vale ressaltar que devemos focar a criação de nosso jogo nas questõe
 - [Tecnoblog - Steam](https://tecnoblog.net/responde/o-que-e-steam-tudo-sobre-a-loja-valve/)
 - [Steam-Releases](https://www.kaggle.com/datasets/whigmalwhim/steam-releases)
 - [Steam-Games](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and) 
-- [Steam-Games-Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset)
 
 # Agradecimentos
 
