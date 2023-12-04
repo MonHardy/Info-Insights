@@ -165,7 +165,8 @@ Sim. De acordo com os dados avaliados, os jogos do gênero Action são comumente
 
 Sim. A época de férias tem resultado em vendas maiores do que as outras épocas. Fevereiro, por exemplo, quando ocorrem as férias na Ásia, costumam ter lançamentos de maiores sucessos.
 
-    3- Há alguma relação entre o número das avaliações, sejam elas positivas ou negativas, para a quantidade de jogadores que compraram os jogos?
+    3- Há alguma relação entre o número das avaliações, sejam elas positivas ou negativas, 
+    para a quantidade de jogadores que compraram os jogos?
     
 ![image](https://github.com/MonHardy/level-up/assets/111711621/a9466fba-56aa-456c-85f9-932a001f0e1f)
 
