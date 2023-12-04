@@ -34,7 +34,7 @@ A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos 
 A Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Por meio dela é possível que consumidores comprem ou ativem jogos dentro do serviço. Possui um programa cliente, que deve ser instalado no computador, para que os jogos possam ser executados, mantendo tudo atualizado. 
 
 Para tal estudo de dados, iremos utilizar alguns datasets sobre a Steam disponíveis em [Kaggle](https://www.kaggle.com/), sendo estes arquivos CSV, os quais serão:
- [Steam-Releases](https://www.kaggle.com/datasets/whigmalwhim/steam-releases), [Steam-Games](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and), contendo vasta informação sobre a grande biblioteca de jogos presente na Steam.
+ [Steam-Releases](https://www.kaggle.com/datasets/whigmalwhim/steam-releases) e [Steam-Games](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and), contendo vasta informação sobre a grande biblioteca de jogos presente na Steam.
 
 Algumas destas informações são:
 * Nome dos Jogos;
