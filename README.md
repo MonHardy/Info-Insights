@@ -55,7 +55,8 @@ Especificamente serão respondidas as seguintes questões de pesquisa:
 
     2- A época do ano de lançamento do jogo têm impacto direto em seu sucesso?
 
-    3- Há alguma relação entre o número das avaliações, sejam elas positivas ou negativas, para a quantidade de jogadores que compraram os jogos?
+    3- Há alguma relação entre o número das avaliações, sejam elas positivas ou negativas, 
+    para a quantidade de jogadores que compraram os jogos?
 
     4- As notas de sites especializados em análise de jogos são equivalentes às recomendações dos jogadores?
 
