@@ -183,7 +183,7 @@ Não necessariamente, há casos em que as notas da crítica especializada diverg
 
 Após a realização da análise de dados, nós da LevelUp percebemos que, para termos mais sucesso em nosso futuro jogo, é de extrema importância que o mesmo seja do gênero Ação ou Aventura, visto que estes dois gêneros se destacaram no quesito de pico de jogadores, cabendo a nós decidirmos internamente qual será o escolhido. Além deste fator, é imprescindível que lançemos nosso jogo em um período de férias nos países mais populosos, pois haverá mais chances de ser jogado, possibilitando um grande retorno financeiro.
 
-Ademais, vale ressaltar que devemos focar a criação de nosso jogo nas questões que agradem ao público e não somente às questões que agradam mídias especializadas em avaliações, pois as avaliações dos jogadores tem o potencial de convencer outros possíveis jogadores a testar nosso jogo, fazendo com que engajem nosso projeto.
+Ademais, vale ressaltar que devemos focar a criação de nosso jogo nas questões que agradem ao público e não somente às questões que agradam mídias especializadas em avaliações, pois as avaliações dos jogadores tem o potencial de convencer outros possíveis jogadores a testar nosso jogo, fazendo com que engajem em nosso projeto.
 
 
 
