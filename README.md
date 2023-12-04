@@ -34,7 +34,7 @@ A LevelUp é uma empresa especializada no desenvolvimento de jogos eletrônicos 
 A Steam é uma plataforma de distribuição de jogos digitais para computadores (Windows, macOS e Linux). Por meio dela é possível que consumidores comprem ou ativem jogos dentro do serviço. Possui um programa cliente, que deve ser instalado no computador, para que os jogos possam ser executados, mantendo tudo atualizado. 
 
 Para tal estudo de dados, iremos utilizar alguns datasets sobre a Steam disponíveis em [Kaggle](https://www.kaggle.com/), sendo estes arquivos CSV, os quais serão:
- [Steam-Releases](https://www.kaggle.com/datasets/whigmalwhim/steam-releases), [Steam-Games](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and), [Steam-Games-Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset), contendo vasta informação sobre a grande biblioteca de jogos presente na Steam.
+ [Steam-Releases](https://www.kaggle.com/datasets/whigmalwhim/steam-releases), [Steam-Games](https://www.kaggle.com/datasets/thedevastator/get-your-game-on-metacritic-recommendations-and), contendo vasta informação sobre a grande biblioteca de jogos presente na Steam.
 
 Algumas destas informações são:
 * Nome dos Jogos;
@@ -48,7 +48,7 @@ Algumas destas informações são:
 
 # Objetivos
 
-O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados sobre a Steam, adaptada pelos autores e disponível em [game_data_all.csv](https://github.com/MonHardy/level-up/blob/main/game_data_all.csv), [games-features-edit.csv](https://github.com/MonHardy/level-up/blob/main/games-features-edit.csv) e [merged_data.csv](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset), a fim de caracterizar os perfis dos jogos disponíveis na plataforma Steam. 
+O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados sobre a Steam, adaptada pelos autores e disponível em [game_data_all.csv](https://github.com/MonHardy/level-up/blob/main/game_data_all.csv) e [games-features-edit.csv](https://github.com/MonHardy/level-up/blob/main/games-features-edit.csv), a fim de caracterizar os perfis dos jogos disponíveis na plataforma Steam. 
 
 Especificamente serão respondidas as seguintes questões de pesquisa:
 
