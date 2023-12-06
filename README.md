@@ -20,6 +20,7 @@
 * [Organização E Limpeza de Dados](#Organização-E-Limpeza-de-Dados)
 * [Mapeamento de Dados](#Mapeamento-de-Dados)
 * [Análise dos Dados](#Análise-dos-Dados)
+* [Gráficos](#gráficos)
 * [Conclusão](#conclusão)
 * [Contribuição](#contribuição)
 * [Referências](#Referências)
@@ -177,6 +178,16 @@ Não necessariamente, há casos em que jogos com muitos jogadores possuem a mesm
 ![image](https://github.com/MonHardy/level-up/assets/111711621/a3ac0bf1-240a-49b0-a3be-8e624cb45145)
 
 Não necessariamente, há casos em que as notas da crítica especializada diverge das recomendações dos jogadores que jogaram o jogo.
+
+# Gráficos
+
+![image](https://github.com/MonHardy/level-up/assets/111711621/d3c0d368-1d72-4e5f-a61c-d5fa56f21e38)
+
+![image](https://github.com/MonHardy/level-up/assets/111711621/fb942a31-e205-4805-9561-b73ed611b165)
+
+![image](https://github.com/MonHardy/level-up/assets/111711621/c4653dde-7b37-4f54-aca7-c8d677325660)
+
+![image](https://github.com/MonHardy/level-up/assets/111711621/27d416dd-36a0-49cd-b35d-883e14649f7d)
 
 
 # Conclusão
